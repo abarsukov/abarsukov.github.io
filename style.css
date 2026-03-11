@@ -1,0 +1,22 @@
+body {
+  color: black;
+  background-color: white;
+  font-family: Arial;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+td {
+  padding: 3px 0;
+}
+a:link{
+  color: #808080;
+  text-decoration:none;
+}
+a:visited{
+  color: #808080;
+}
+a:hover{
+  color: #d3d3d3;
+}
